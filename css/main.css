@@ -1,0 +1,40 @@
+.caja{
+	width: 200px;
+	height: 260px; 
+	font-size: 14px;
+	background-color: #F8F1F1;
+	text-align:center;
+	float: left;
+	padding: 20px;
+	box-shadow: 0 1px 1px 0;
+	margin-left: 10px;
+}
+span{
+	font-size: 70px;
+	margin:2px;
+}
+
+h2{
+	font-family: 'Cuprum', sans-serif;
+}
+
+h5{
+	font-family: 'Fira Sans', sans-serif;
+}
+
+p{
+	font-family: 'Fira Sans', sans-serif;
+}
+.caja:hover{
+	background-color: #F0E1E1;
+	width: 220px;
+	height: 300px; 
+	font-size: 16px;
+	color:#DDC5C5;
+
+}
+
+.caja:hover span{
+	color:#E1B7B7;
+	font-size: 90px;
+}
